@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7099
     wikipedia: http://en.wikipedia.org/wiki/John_Richard_Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24254#History-of-the-English-People-Volume-VI--13-Puritan-England-1642-1660--The-Revolution-1660-16_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2008-01-11'
 gutenberg_type: Text
